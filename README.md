@@ -20,7 +20,7 @@ We welcome contributions from everyone! Whether you're looking to correct a typo
 
 ## Contact Us
 
-For any inquiries or suggestions, feel free to reach out to us at [jdp5958@psu.edu](mailto:jdp5958@psu.edu). We're always looking to improve and expand our repository with the help of our vibrant community.
+For any inquiries or suggestions, feel free to reach out to us at [jdp5958@psu.edu](mailto:naisspsu@gmail.com). We're always looking to improve and expand our repository with the help of our vibrant community.
 
 Thank you for visiting our repository, and we hope you find the resources here informative and inspiring!
 
